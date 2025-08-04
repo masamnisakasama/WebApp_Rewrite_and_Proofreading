@@ -5,6 +5,8 @@
 Rewrite_and_Proofreading Appは、日本語の文章を校正し、より読みやすい表現にリライトするWebアプリです。  
 OpenAIのGPTモデルを活用し、高精度な校正・リライトをリアルタイムに提供します。
 
+AppのURL：https://es-rewrite-app-162099338913.asia-northeast1.run.app
+
 ## 主な機能
 
 - 文章の文法チェックと修正案の提示  
