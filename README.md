@@ -24,7 +24,7 @@ AppのURL：https://es-rewrite-app-162099338913.asia-northeast1.run.app
 ## 技術スタック
 
 - Python (Flask)  
-- OpenAI API（GPT-3.5）  
+- OpenAI API（GPT-3.5ターボ）  
 - Google Cloud Run を利用したサーバーレスデプロイ  
 - HTML/CSSによるシンプルなUI
 - Dockerによるパッケージ化
