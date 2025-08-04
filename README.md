@@ -27,7 +27,7 @@ AppのURL：https://es-rewrite-app-162099338913.asia-northeast1.run.app
 - OpenAI API（GPT-3.5）  
 - Google Cloud Run を利用したサーバーレスデプロイ  
 - HTML/CSSによるシンプルなUI
-- 
+- Dockerによるパッケージ化
 
 ## 開発環境
 
