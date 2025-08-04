@@ -1,4 +1,4 @@
-# Rewrite_and_Proofreading（文章校正＆リライトツール）
+# WebApp_Rewrite_and_Proofreading（文章校正＆リライトツール）
 
 ## 概要
 
